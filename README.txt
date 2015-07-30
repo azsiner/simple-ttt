@@ -34,7 +34,7 @@ This exercise uses:
 To run the application:
  - unzip asiner-simple-ttt.zip
  - cd simple-ttt
- - mvn compile (not always necessary)
+ - mvn compile
  - mvn exec:java -Dexec.mainClass=com.siner.ttt.TicTacToeApp
   
  To view Javadoc files:
